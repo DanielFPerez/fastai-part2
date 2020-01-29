@@ -3,3 +3,5 @@
 Repo for own implementation of the fastai Part 2 course
 
 Based on the course content  in https://course.fast.ai/videos/?lesson=8 
+
+User check correct.
